@@ -11,7 +11,7 @@ function AdminPanel({email}) {
               <Menu />
               <div className="header">
                 <div className="account">
-                  <img src="../image/Notification.png" className="account__message" alt="message" />
+                  <img src="./image/Notification.png" className="account__message" alt="message" />
                   <div className="account__persona">
                     <img src="./image/pers-icon.png" className="account__persona--icon" alt="icon" />
                     <div className="account__pesrona--desc">
